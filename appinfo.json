@@ -1,0 +1,22 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "1050d9b4-a176-4b96-b01c-e1013627663b",
+    "appKeys": {},
+    "longName": "Authenticator",
+    "versionCode": 2,
+    "shortName": "Authenticator",
+    "companyName": "kitzler_walli",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/twostep_icon.png"
+            }
+        ]
+    }
+}
